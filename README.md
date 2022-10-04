@@ -1,16 +1,45 @@
-# bks_case
+# Flutter - Mobile Case BKS
 
-A new Flutter project.
 
-## Getting Started
+## Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+### Giriş Ekranı
+<img align="left" width="250" height="530" src="screenshots/1.png">
+<img align="center" width="250" height="530" src="screenshots/2.png">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Anasayfa
+<img align="center" width="250" height="530" src="screenshots/3.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Ürün Detay
+<img align="center" width="250" height="530" src="screenshots/4.png">
+
+
+### Ayarlar
+<img align="center" width="250" height="530" src="screenshots/5.png">
+
+
+## Neler Eklendi :question:
+
+- [x] Giriş Ekranı
+- [x] Anasayfa
+- [x] Ürün Detay
+- [x] Ayarlar
+- [x] State Management (Provider)
+
+
+## Kullanılan Paketler
+
+ #### Utilty
+ -kartal,auto_size_text
+
+ #### Widget
+ -another_flushbar
+
+ #### State Management
+ -provider
+
+ #### Cache
+ -shared_preferences
+ 

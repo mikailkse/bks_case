@@ -1,9 +1,10 @@
+import 'package:bks_case/core/init/theme/lightTheme/endavour_theme.dart';
+import 'package:bks_case/view/auth/login/view/login_view.dart';
+
 import 'package:flutter/material.dart';
 
 import 'core/init/navigation/navigation_route.dart';
 import 'core/init/navigation/navigation_service.dart';
-import 'core/init/theme/lightTheme/endavour_theme.dart';
-import 'view/auth/login/view/login_view.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
