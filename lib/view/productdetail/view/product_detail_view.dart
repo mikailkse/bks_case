@@ -5,9 +5,9 @@ import 'package:provider/provider.dart';
 import '../../../core/components/appbar/product_detail_appbar.dart';
 import '../../../core/components/buttons/switchButton/custom_switch_button.dart';
 import '../../../core/components/container/base_shadow_container.dart';
+import '../../../core/components/text/headline/headline5_text.dart';
+import '../../../core/components/text/headline/headline6_text.dart';
 import '../../../core/constants/color/app_colors.dart';
-import '../../../core/text/headline/headline5_text.dart';
-import '../../../core/text/headline/headline6_text.dart';
 import '../../home/model/product_detail_dummy_model.dart';
 import '../viewmodel/product_detail_view_model.dart';
 
@@ -78,7 +78,7 @@ class _ProductDetailViewState extends State<ProductDetailView> {
                     builder: (context, viewModel, child) => Column(
                       children: [
                         Headline5Text(
-                          text: viewModel.sliderCount.toString(),
+                          text: '${viewModel.sliderCount} C°',
                           color: AppColors.orangeRoughy,
                         ),
                         Slider(

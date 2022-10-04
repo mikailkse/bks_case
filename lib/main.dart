@@ -1,7 +1,7 @@
-import 'package:bks_case/view/_bottombar/viewmodel/app_bottom_bar.dart';
-import 'package:bks_case/view/auth/login/viewmodel/login_view_model.dart';
-import 'package:bks_case/view/home/viewmodel/home_view_model.dart';
-import 'package:bks_case/view/productdetail/viewmodel/product_detail_view_model.dart';
+import 'view/_bottombar/viewmodel/app_bottom_bar.dart';
+import 'view/auth/login/viewmodel/login_view_model.dart';
+import 'view/home/viewmodel/home_view_model.dart';
+import 'view/productdetail/viewmodel/product_detail_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

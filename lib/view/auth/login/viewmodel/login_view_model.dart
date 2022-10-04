@@ -1,4 +1,4 @@
-import 'package:bks_case/view/auth/login/model/login_dummy_model.dart';
+import '../model/login_dummy_model.dart';
 import 'package:flutter/material.dart';
 
 import '../../../../core/components/flushbar/custom_flushbar.dart';

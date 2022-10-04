@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:bks_case/core/components/flushbar/custom_flushbar.dart';
+import '../../../core/components/flushbar/custom_flushbar.dart';
 import 'package:flutter/material.dart';
 
 import '../../../core/constants/enums/locale_keys_enum.dart';

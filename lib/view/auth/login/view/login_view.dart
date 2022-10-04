@@ -5,9 +5,9 @@ import 'package:provider/provider.dart';
 import '../../../../core/components/bottommodal/bottom_modal.dart';
 import '../../../../core/components/buttons/elevatedbutton/endavour_elevated_button.dart';
 import '../../../../core/components/container/home_background_container.dart';
+import '../../../../core/components/text/button/button_large_text.dart';
 import '../../../../core/components/textformfield/custom_text_form_field.dart';
 import '../../../../core/constants/color/app_colors.dart';
-import '../../../../core/text/button/button_large_text.dart';
 import '../viewmodel/login_view_model.dart';
 
 class LoginView extends StatefulWidget {

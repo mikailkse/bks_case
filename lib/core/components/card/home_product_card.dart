@@ -1,13 +1,13 @@
-import 'package:bks_case/view/home/model/product_detail_dummy_model.dart';
-import 'package:bks_case/view/home/viewmodel/home_view_model.dart';
+import '../../../view/home/model/product_detail_dummy_model.dart';
+import '../../../view/home/viewmodel/home_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:kartal/kartal.dart';
 
 import '../../../view/productdetail/view/product_detail_view.dart';
 import '../../constants/color/app_colors.dart';
 import '../../init/navigation/navigation_service.dart';
-import '../../text/headline/headline5_text.dart';
 import '../container/base_shadow_container.dart';
+import '../text/headline/headline5_text.dart';
 
 class HomeProductCard extends StatelessWidget {
   final HomeViewModel viewModel;

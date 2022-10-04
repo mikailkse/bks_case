@@ -1,5 +1,5 @@
-import 'package:bks_case/core/init/theme/lightTheme/endavour_theme.dart';
-import 'package:bks_case/view/auth/login/view/login_view.dart';
+import 'core/init/theme/lightTheme/endavour_theme.dart';
+import 'view/auth/login/view/login_view.dart';
 
 import 'package:flutter/material.dart';
 

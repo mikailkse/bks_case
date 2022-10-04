@@ -1,5 +1,5 @@
-import 'package:bks_case/view/auth/login/view/login_view.dart';
-import 'package:bks_case/view/productdetail/view/product_detail_view.dart';
+import '../../../view/auth/login/view/login_view.dart';
+import '../../../view/productdetail/view/product_detail_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
